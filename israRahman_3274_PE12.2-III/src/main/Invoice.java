@@ -1,7 +1,7 @@
 package main;
 //Isra Rahman
 //11/1/22
-
+//purpose: push project to github
 import java.util.ArrayList;
 
 public class Invoice {
